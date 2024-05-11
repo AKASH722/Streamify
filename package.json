@@ -1,0 +1,11 @@
+{
+  "name": "streamify",
+  "version": "1.0.0",
+  "description": "a video streaming backend service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akash Rai",
+  "license": "ISC"
+}
